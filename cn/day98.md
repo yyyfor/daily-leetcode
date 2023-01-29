@@ -1,6 +1,7 @@
-###question
+### question
 https://leetcode.cn/problems/ways-to-make-a-fair-array/description/
-###Solution
+
+### Solution
 ```
 class Solution {
     public int waysToMakeFair(int[] nums) {
@@ -34,10 +35,8 @@ class Solution {
 }
 ```
 
-
-###Conclustion
+### Conclustion
 Runtime beat 85%
 Memory beat 42%
-
-###Related Topic
+### Related Topic
 DP

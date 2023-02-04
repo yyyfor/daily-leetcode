@@ -1,6 +1,6 @@
-###question
+### question
 https://leetcode.com/problems/longest-consecutive-sequence/
-###Solution
+### Solution
 ```
 class Solution {
     public int longestConsecutive(int[] nums) {
@@ -22,10 +22,10 @@ class Solution {
 }
 ```
 
-###Conclustion
-Runtime beat 69%
-Memory beat 88%
+### Conclustion
+- Runtime beat 69%
+- Memory beat 88%
 考虑num如果出现过不要重复计算
 
-###Related Topic
+### Related Topic
 Array,Hash Table,Union Find

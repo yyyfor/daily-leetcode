@@ -24,5 +24,5 @@ class Solution {
 Runtime beat 100%
 Memory beat 61%
 
-###Related Topic
+### Related Topic
 DP, math

@@ -50,5 +50,5 @@ class Solution {
 Runtime beat 100%
 Memory beat 77%
 
-###Related Topic
+### Related Topic
 LinkedList

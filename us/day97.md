@@ -1,6 +1,6 @@
-###question
+### question
 https://leetcode.com/problems/flip-string-to-monotone-increasing/description/
-###Solution
+### Solution
 ```
 class Solution {
     public int minFlipsMonoIncr(String s) {
@@ -22,9 +22,9 @@ class Solution {
 ```
 
 
-###Conclustion
+### Conclustion
 Runtime beat 57%
 Memory beat 84%
 
-###Related Topic
+### Related Topic
 DP

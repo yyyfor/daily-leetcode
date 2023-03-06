@@ -1,6 +1,6 @@
-###question
+### question
 https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
-###Solution
+### Solution
 ```
 class Solution {
     public int minimumDeletions(int[] nums) {
@@ -45,9 +45,9 @@ class Solution {
 }
 ```
 
-###Conclustion
+### Conclustion
 Runtime beat 12%
 Memory beat 68%
 
-###Related Topic
+### Related Topic
 Greedy, Array

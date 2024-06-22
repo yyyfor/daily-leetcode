@@ -1,2 +1,6 @@
-leetcode 每日一题打卡
+# leetcode daily 
+
+## Porifle
+- [cn](https://leetcode.cn/u/yyyfor/)
+- [us](https://leetcode.com/u/yyyfor/)
 
